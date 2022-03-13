@@ -51,12 +51,12 @@ The working of Supervised learning can be easily understood by the below example
 
 ## Types of Regression
 
- - #### [Simple Linear Regression](https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-#simple-linear-regression-1)
- - #### Multiple Linear Regression
- - #### Polynomial Regression
- - #### Support Vector Regression
- - #### Decision Tree Regression
- - #### Random Forest Regression
+ - ## [Simple Linear Regression](https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-#simple-linear-regression-1) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BwVpNNyUDW7s8iJRbAaxpVFdYiFFH4Ok#scrollTo=KgXZP2TN5hFM)
+ - ## Multiple Linear Regression
+ - ## Polynomial Regression
+ - ## Support Vector Regression
+ - ## Decision Tree Regression
+ - ## Random Forest Regression
 
 # Simple Linear Regression
 
