@@ -51,7 +51,7 @@ The working of Supervised learning can be easily understood by the below example
 
 ## Types of Regression
 
- - #### Simple Linear Regression
+ - #### [Simple Linear Regression](https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-#simple-linear-regression-1)
  - #### Multiple Linear Regression
  - #### Polynomial Regression
  - #### Support Vector Regression
@@ -143,7 +143,7 @@ plt.xlabel('Years of Experience')
 plt.ylabel('Salary')
 plt.show()
 ```
-## Combining all the steps:
+## Step: 6. Combining all the steps:
 Now, in the end, we can combine all the steps together to make our complete code more understandable.
 
 [Complete Code](https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/Simple%20Linear%20Regression/simple_linear_regression.ipynb)
