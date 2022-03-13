@@ -51,7 +51,7 @@ The working of Supervised learning can be easily understood by the below example
 
 ## Types of Regression
 
- - ## [Simple Linear Regression](https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-#simple-linear-regression-1) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BwVpNNyUDW7s8iJRbAaxpVFdYiFFH4Ok#scrollTo=KgXZP2TN5hFM)
+ - ## [Simple Linear Regression](https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-#simple-linear-regression-1) [![Open In Collab](https://colab.research.google.com/drive/1BwVpNNyUDW7s8iJRbAaxpVFdYiFFH4Ok#scrollTo=l_LulNCC8z96)
  - ## Multiple Linear Regression
  - ## Polynomial Regression
  - ## Support Vector Regression
@@ -148,7 +148,7 @@ Now, in the end, we can combine all the steps together to make our complete code
 
 [Complete Code](https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/Simple%20Linear%20Regression/simple_linear_regression.ipynb)
 
-If You want To Run The Code Then You Can Use Google Colab [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BwVpNNyUDW7s8iJRbAaxpVFdYiFFH4Ok#scrollTo=KgXZP2TN5hFM)
+If You want To Run The Code Then You Can Use Google Colab [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BwVpNNyUDW7s8iJRbAaxpVFdYiFFH4Ok#scrollTo=l_LulNCC8z96)
 
 *`NOTE`* : Before running the Program upload [This](https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/Simple%20Linear%20Regression/Salary_Data.csv) Dataset.
 
