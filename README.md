@@ -143,3 +143,12 @@ plt.xlabel('Years of Experience')
 plt.ylabel('Salary')
 plt.show()
 ```
+## Combining all the steps:
+Now, in the end, we can combine all the steps together to make our complete code more understandable.
+
+[Complete Code](https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/Simple%20Linear%20Regression/simple_linear_regression.ipynb)
+
+If You want To Run The Code Then You Can Use Google Colab [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BwVpNNyUDW7s8iJRbAaxpVFdYiFFH4Ok#scrollTo=KgXZP2TN5hFM)
+
+*`NOTE`* : Before running the Program upload [This](https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/Simple%20Linear%20Regression/Salary_Data.csv) Dataset.
+
