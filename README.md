@@ -57,8 +57,8 @@ The working of Supervised learning can be easily understood by the below example
  - ## Support Vector Regression
  - ## Decision Tree Regression
  - ## Random Forest Regression
-
-# Simple Linear Regression
+----------
+# `Simple Linear Regression`
 
 The Simple Linear Regression model can be represented using the below equation:
 ```
@@ -97,7 +97,7 @@ The goals of this problem is:
 
 ## Step-1: Data Pre-processing
 [Data Pre-processing](https://github.com/hacker-404-error/ML-Data-Preprocessing) 
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hacker-404-error/ML-Data-Preprocessing/blob/master/data_preprocessing_tools.ipynb)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 ## Step-2: Fitting the Simple Linear Regression to the Training Set:
 
@@ -152,3 +152,24 @@ If You want To Run The Code Then You Can Use Google Colab [![Open In Collab](htt
 
 *`NOTE`* : Before running the Program upload [This](https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/Simple%20Linear%20Regression/Salary_Data.csv) Dataset.
 
+----------
+# `Multiple Linear Regression`
+- In Simple Linear Regression, where a single Independent/Predictor(X) variable is used to model the response variable (Y). 
+- But there may be various cases in which the response variable is affected by more than one predictor variable; for such cases, 
+- The Multiple Linear Regression algorithm is used.
+
+### `MLR equation:`
+- In Multiple Linear Regression, the target variable(Y) is a linear combination of multiple predictor variables x1, x2, x3, ...,xn. 
+- Since it is an enhancement of Simple Linear Regression, so the same is applied for the multiple linear regression equation, the equation becomes:
+
+<br>
+<div align="center">
+    <img src="https://i.ibb.co/7bH9SRW/MLR-EQUATION.png" alt="MLR Equation">
+</div>
+<br>
+
+#### `Assumptions for Multiple Linear Regression:`
+
+- A linear relationship should exist between the Target and predictor variables.
+- The regression residuals must be normally distributed.
+- MLR assumes little or no multicollinearity (correlation between the independent variable) in data.
