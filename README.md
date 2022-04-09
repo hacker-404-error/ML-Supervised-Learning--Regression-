@@ -62,12 +62,14 @@ The working of Supervised learning can be easily understood by the below example
 
 The Simple Linear Regression model can be represented using the below equation:
 ```
-y= a0 + a1x + ε 
+y= b0 + b1.x1  
 ```
-Where,
-- a0= It is the intercept of the Regression line (can be obtained putting x=0)
-- a1= It is the slope of the regression line, which tells whether the line is increasing or decreasing.
-- ε = The error term. (For a good model it will be negligible)
+<br>
+<div align="center">
+    <img src="https://i.ibb.co/XppFRXD/SLR-EQUATION.png" alt="SLR EQUATION">
+</div>
+<br>
+
   
 ## Implementation of Simple Linear Regression Algorithm using Python
 
@@ -173,3 +175,31 @@ If You want To Run The Code Then You Can Use Google Colab [![Open In Collab](htt
 - A linear relationship should exist between the Target and predictor variables.
 - The regression residuals must be normally distributed.
 - MLR assumes little or no multicollinearity (correlation between the independent variable) in data.
+
+## Implementation of Multiple Linear Regression model using Python:
+
+`Problem Description:`
+
+- We have a dataset of 50 start-up companies. 
+- This dataset contains five main information: R&D Spend, Administration Spend, Marketing Spend, State, and Profit for a financial year. 
+
+|     | R&D Spend | Administration | Marketing Spend | State      | Profit    |
+| --- | --------- | -------------- | --------------- | ---------- | --------- |
+| 0   | 165349.20 | 136897.80      | 471784.10       | New York   | 192261.83 |
+| 1   | 162597.70 | 151377.59      | 443898.53       | California | 191792.06 |
+| 2   | 153441.51 | 101145.55      | 407934.54       | Florida    | 191050.39 |
+| 3   | 144372.41 | 118671.85      | 383199.62       | New York   | 182901.99 |
+| 4   | 142107.34 | 91391.77       | 366168.42       | Florida    | 166187.94 |
+| 5   | 131876.90 | 99814.71       | 362861.36       | New York   | 156991.12 |
+| ... | ...       | ...            | ...             | ...        | ...       |
+| 45  | 1000.23   | 124153.04      | 1903.93         | New York   | 64926.08  |
+| 46  | 1315.46   | 115816.21      | 297114.46       | Florida    | 49490.75  |
+| 47  | 0.00      | 135426.92      | 0.00            | California | 42559.73  |
+| 48  | 542.05    | 51743.15       | 0.00            | New York   | 35673.41  |
+| 49  | 0.00      | 116983.80      | 45173.06        | California | 14681.40  |
+
+- Our goal is to create a model that can easily determine which company has a maximum profit, and which is the most affecting factor for the profit of a company.
+
+## Step-1: Data Pre-processing Step:
+[Data Pre-processing](https://github.com/hacker-404-error/ML-Data-Preprocessing) 
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)]()
