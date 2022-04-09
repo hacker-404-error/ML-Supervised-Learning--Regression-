@@ -97,7 +97,7 @@ The goals of this problem is:
 
 ## Step-1: Data Pre-processing
 [Data Pre-processing](https://github.com/hacker-404-error/ML-Data-Preprocessing) 
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/Simple%20Linear%20Regression/SLR_Data_Pre-processing.ipynb)
 
 ## Step-2: Fitting the Simple Linear Regression to the Training Set:
 
