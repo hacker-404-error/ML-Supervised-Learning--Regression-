@@ -221,7 +221,7 @@ print(np.concatenate((y_pred.reshape(len(y_pred),1), y_test.reshape(len(y_test),
 print('Train Score: ', regressor.score(X_train, y_train))  
 print('Test Score: ', regressor.score(X_test, y_test))  
 ```
-## Step: 6. Combining all the steps:
+## Step: 4. Combining all the steps:
 Now, in the end, we can combine all the steps together to make our complete code more understandable.
 
 [Complete Code]()
