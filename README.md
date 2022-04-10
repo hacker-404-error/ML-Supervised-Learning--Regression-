@@ -261,12 +261,27 @@ If You want To Run The Code Then You Can Use Google Colab [![Open In Collab](htt
 
 ## `Implementation of Polynomial Regression using Python :`
 ### `Problem Description:` 
-- There is a Human Resource company, which is going to hire a new candidate. The candidate has told his previous salary 160K per annum, and the HR have to check whether he is telling the truth or bluff. So to identify this, they only have a dataset of his previous company in which the salaries of the top 10 positions are mentioned with their levels. 
+- There is a Human Resource company, which is going to hire a new candidate. The candidate has told his previous salary 160K per annum, and the HR have to check whether he is telling the truth or bluff. 
+- So to identify this, they only have a dataset of his previous company in which the salaries of the top 10 positions are mentioned with their levels.
+
+|     | Position             | Level | Salary  |
+| --- | -------------------- | ----- | ------- |
+| 0   | Business  Analyst    | 1     | 45000   |
+| 1   | Junior    Consultant | 2     | 50000   |
+| 2   | Senior  Consultant   | 3     | 60000   |
+| 3   | Manager              | 4     | 80000   |
+| 4   | Country Manager      | 5     | 110000  |
+| 5   | Region Manager       | 6     | 150000  |
+| 6   | Partner              | 7     | 200000  |
+| 7   | Senior Partner       | 8     | 300000  |
+| 8   | C-level              | 9     | 500000  |
+| 9   | CEO                  | 10    | 1000000 |
+
 - By checking the dataset available, we have found that there is a non-linear relationship between the Position levels and the salaries.
 - Our goal is to build a Bluffing detector regression model, so HR can hire an honest candidate. Below are the steps to build such a model.
 
 ## Step-1: Data Pre-processing Step:
 [Data Pre-processing](https://github.com/hacker-404-error/ML-Data-Preprocessing) 
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/Multiple%20Linear%20Regression/MLR_Data-Preprocessing.ipynb)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 ## Step: 2- Fitting our MLR model to the Training set:
