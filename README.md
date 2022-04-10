@@ -55,10 +55,10 @@ The working of Supervised learning can be easily understood by the below example
   
  - ## [Multiple Linear Regression](https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-#multiple-linear-regression) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/Multiple%20Linear%20Regression/multiple_linear_regression.ipynb)
   
- - ## Polynomial Regression
- - ## Support Vector Regression
- - ## Decision Tree Regression
- - ## Random Forest Regression
+ - ## [Polynomial Regression]() [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)]()
+ - ## [Support Vector Regression]
+ - ## [Decision Tree Regression]
+ - ## [Random Forest Regression]
 ----------
 # `Simple Linear Regression`
 
