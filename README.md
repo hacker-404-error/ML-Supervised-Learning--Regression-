@@ -73,9 +73,9 @@ y= b0 + b1.x1
 <br>
 
   
-## Implementation of Simple Linear Regression Algorithm using Python
+## `Implementation of Simple Linear Regression Algorithm using Python`
 
-`Problem Statement example for Simple Linear Regression:`
+### `Problem Statement `
 
 Here we are taking a dataset that has two variables: salary (dependent variable) and experience (Independent variable). 
 
@@ -178,9 +178,9 @@ If You want To Run The Code Then You Can Use Google Colab [![Open In Collab](htt
 - The regression residuals must be normally distributed.
 - MLR assumes little or no multicollinearity (correlation between the independent variable) in data.
 
-## Implementation of Multiple Linear Regression model using Python:
+## `Implementation of Multiple Linear Regression model using Python:`
 
-`Problem Description:`
+### `Problem Description:`
 
 - We have a dataset of 50 start-up companies. 
 - This dataset contains five main information: R&D Spend, Administration Spend, Marketing Spend, State, and Profit for a financial year. 
@@ -231,3 +231,42 @@ Now, in the end, we can combine all the steps together to make our complete code
 If You want To Run The Code Then You Can Use Google Colab [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/Multiple%20Linear%20Regression/multiple_linear_regression.ipynb)
 
 *`NOTE`* : Before running the Program upload [This](https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/Multiple%20Linear%20Regression/50_Startups.csv) Dataset.
+
+------------------------------------------------------------------------------------------------------------
+
+# `Polynomial Regression`
+- Polynomial Regression is a regression algorithm that models the relationship between a dependent(y) and independent variable(x) as nth degree polynomial. 
+
+<br>
+<div align="center">
+    <img src="https://i.ibb.co/qRVqryV/PLRM-equation.png" alt="PLR Equation">
+</div>
+<br>
+
+
+- It is also called the special case of Multiple Linear Regression in ML. Because we add some polynomial terms to the Multiple Linear regression equation to convert it into Polynomial Regression.
+- It is a linear model with some modification in order to increase the accuracy.
+- The dataset used in Polynomial regression for training is of non-linear nature.
+- It makes use of a linear regression model to fit the complicated and non-linear functions and datasets.
+
+<br>
+<div align="center">
+    <img src="https://i.ibb.co/L6ZPbz7/machine-learning-polynomial-regression.jpg
+" alt="PLR vs SLR">
+</div>
+<br>
+
+### `Note:`
+#### A Polynomial Regression algorithm is also called Polynomial Linear Regression because it does not depend on the variables, instead, it depends on the coefficients, which are arranged in a linear fashion.
+
+## `Implementation of Polynomial Regression using Python :`
+### `Problem Description:` 
+- There is a Human Resource company, which is going to hire a new candidate. The candidate has told his previous salary 160K per annum, and the HR have to check whether he is telling the truth or bluff. So to identify this, they only have a dataset of his previous company in which the salaries of the top 10 positions are mentioned with their levels. 
+- By checking the dataset available, we have found that there is a non-linear relationship between the Position levels and the salaries.
+- Our goal is to build a Bluffing detector regression model, so HR can hire an honest candidate. Below are the steps to build such a model.
+
+## Step-1: Data Pre-processing Step:
+[Data Pre-processing](https://github.com/hacker-404-error/ML-Data-Preprocessing) 
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/Multiple%20Linear%20Regression/MLR_Data-Preprocessing.ipynb)
+
+## Step: 2- Fitting our MLR model to the Training set:
