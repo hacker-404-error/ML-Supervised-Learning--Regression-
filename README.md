@@ -251,8 +251,7 @@ If You want To Run The Code Then You Can Use Google Colab [![Open In Collab](htt
 
 <br>
 <div align="center">
-    <img src="https://i.ibb.co/L6ZPbz7/machine-learning-polynomial-regression.jpg
-" alt="PLR vs SLR">
+    <img src="https://i.ibb.co/L6ZPbz7/machine-learning-polynomial-regression.jpg" alt="PLR vs SLR">
 </div>
 <br>
 
