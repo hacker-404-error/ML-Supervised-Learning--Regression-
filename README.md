@@ -203,3 +203,29 @@ If You want To Run The Code Then You Can Use Google Colab [![Open In Collab](htt
 ## Step-1: Data Pre-processing Step:
 [Data Pre-processing](https://github.com/hacker-404-error/ML-Data-Preprocessing) 
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/Multiple%20Linear%20Regression/MLR_Data-Preprocessing.ipynb)
+
+## Step: 2- Fitting our MLR model to the Training set:
+```
+from sklearn.linear_model import LinearRegression
+regressor = LinearRegression()
+regressor.fit(X_train, y_train)
+```
+## Step: 3- Prediction of Test set results:
+```
+y_pred = regressor.predict(X_test)
+np.set_printoptions(precision=2)
+print(np.concatenate((y_pred.reshape(len(y_pred),1), y_test.reshape(len(y_test),1)),1))
+```
+### We can also check the score for training dataset and test dataset. 
+```
+print('Train Score: ', regressor.score(X_train, y_train))  
+print('Test Score: ', regressor.score(X_test, y_test))  
+```
+## Step: 6. Combining all the steps:
+Now, in the end, we can combine all the steps together to make our complete code more understandable.
+
+[Complete Code]()
+
+If You want To Run The Code Then You Can Use Google Colab [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)]()
+
+*`NOTE`* : Before running the Program upload [This]() Dataset.
