@@ -55,10 +55,10 @@ The working of Supervised learning can be easily understood by the below example
   
  - ## [Multiple Linear Regression](https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-#multiple-linear-regression) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/Multiple%20Linear%20Regression/multiple_linear_regression.ipynb)
   
- - ## [Polynomial Regression]() [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)]()
- - ## [Support Vector Regression]
- - ## [Decision Tree Regression]
- - ## [Random Forest Regression]
+ - ## [Polynomial Regression](https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-#polynomial-regression) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/C-Polynomial%20Linear%20Regression/polynomial_regression.ipynb)
+ - ## [Support Vector Regression]()
+ - ## [Decision Tree Regression]()
+ - ## [Random Forest Regression]()
 ----------
 # `Simple Linear Regression`
 
@@ -281,7 +281,7 @@ If You want To Run The Code Then You Can Use Google Colab [![Open In Collab](htt
 
 ## Step-1: Data Pre-processing Step:
 [Data Pre-processing](https://github.com/hacker-404-error/ML-Data-Preprocessing) 
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/C-Polynomial%20Linear%20Regression/PLR_Data-Preprocessing.ipynb)
 
 ## Step: 2- Training the Linear Regression model on the whole dataset V/S Training the Polynomial Regression model on the whole dataset
 
@@ -337,11 +337,11 @@ lin_reg_2.predict(poly_reg.fit_transform([[6.5]]))
 ## Step: 5. Combining all the steps:
 Now, in the end, we can combine all the steps together to make our complete code more understandable.
 
-[Complete Code]()
+[Complete Code](https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/C-Polynomial%20Linear%20Regression/polynomial_regression.ipynb)
 
-If You want To Run The Code Then You Can Use Google Colab [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)]()
+If You want To Run The Code Then You Can Use Google Colab [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/C-Polynomial%20Linear%20Regression/polynomial_regression.ipynb)
 
-*`NOTE`* : Before running the Program upload [This]() Dataset.
+*`NOTE`* : Before running the Program upload [This](https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/C-Polynomial%20Linear%20Regression/Position_Salaries.csv) Dataset.
 
 
 
