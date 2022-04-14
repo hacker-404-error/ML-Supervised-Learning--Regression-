@@ -57,7 +57,7 @@ The working of Supervised learning can be easily understood by the below example
 
 - ## [Polynomial Regression](https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-#polynomial-regression) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/C-Polynomial%20Linear%20Regression/polynomial_regression.ipynb)
 
-- ## [Support Vector Regression](https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-#polynomial-regression) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)]()
+- ## [Support Vector Regression](https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-#support-vector-regression-svr-)[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/D-Support%20Vector%20Regression%20(SVR)/support_vector_regression.ipynb)
 
 - ## [Decision Tree Regression](https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-#polynomial-regression) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
@@ -447,7 +447,7 @@ Thus, any hyperplane that satisfies our SVR should satisfy:
 ## Step-1: Data Pre-processing Step:
 
 [Data Pre-processing](https://github.com/hacker-404-error/ML-Data-Preprocessing)
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/D-Support%20Vector%20Regression%20(SVR)/SVR_Data-Preprocessing.ipynb)
 
 ## Step-2: Training the SVR model on the whole dataset
 ```
@@ -483,11 +483,11 @@ plt.show()
 
 Now, in the end, we can combine all the steps together to make our complete code more understandable.
 
-[Complete Code]()
+[Complete Code](https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/D-Support%20Vector%20Regression%20(SVR)/support_vector_regression.ipynb)
 
-If You want To Run The Code Then You Can Use Google Colab [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)]()
+If You want To Run The Code Then You Can Use Google Colab [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/D-Support%20Vector%20Regression%20(SVR)/support_vector_regression.ipynb)
 
-_`NOTE`_ : Before running the Program upload [This]() Dataset.
+_`NOTE`_ : Before running the Program upload [This](https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-/blob/master/D-Support%20Vector%20Regression%20(SVR)/Position_Salaries.csv) Dataset.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
